@@ -13,7 +13,7 @@ https://avaliei-rank.web.app/
 https://avaliei-admin.web.app/
 
 ## Avaliei antigo
-avaliei-256419.firebaseapp.com/
+https://avaliei-256419.firebaseapp.com/login
 
 ## QR CODE TEST
 https://avaliei-app.web.app/worker/vuyUDXcigc
